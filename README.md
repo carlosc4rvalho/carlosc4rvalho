@@ -16,10 +16,12 @@
 <h4> languages and tools: </h4>
 
 <div style="display: inline_block"><br>
-  <img src="https://img.icons8.com/color/60/000000/html-5--v1.png"/>
-  <img src="https://img.icons8.com/color/60/000000/css3.png"/>
-  <img src="https://img.icons8.com/color/60/000000/javascript--v1.png"/>
-  <img src="https://img.icons8.com/fluency/60/000000/visual-studio-code-2019.png"/>
+  <img src="https://img.icons8.com/color/55/000000/html-5--v1.png"/>
+  <img src="https://img.icons8.com/color/55/000000/css3.png"/>
+  <img src="https://img.icons8.com/color/55/000000/javascript--v1.png"/>
+  <img src="https://img.icons8.com/fluency/55/000000/visual-studio-code-2019.png"/>
+  <img src="https://img.icons8.com/plasticine/55/000000/react.png"/>
+  <img src="https://img.icons8.com/color/55/000000/typescript.png"/>        
 </div>
 
   <h3>Find Me</h3>
