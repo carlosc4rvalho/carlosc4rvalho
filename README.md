@@ -8,7 +8,7 @@
 <br>
 <br>
 <div>
-<h2>🌍 About Me <h2>
+<h2> 🌍 About Me <h2>
 
 <p>Olá, me chamo Carlos, sou de Ivaiporã interior do Paraná e me considero um aspirante a desenvolvedor Front-End, almejo ampliar meus conhecimentos em uma boa oportunidade.</p>
 
@@ -33,7 +33,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosC4rvalho&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<h2> 💜 languages and tools 💜: </h2>
+<h2> 💜 Languages and tools 💜: </h2>
 
 <div style="display: inline_block"><br>
   <img src="https://img.icons8.com/color/65/000000/html-5--v1.png"/>
@@ -41,7 +41,7 @@
   <img src="https://img.icons8.com/fluency/65/000000/visual-studio-code-2019.png"/>
 </div>
 
-<h2>📩 Find Me</h2>
+<h2> 📩 Find Me </h2>
 
 <div>
   <a href="https://instagram.com/carlos_c4rvalho" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
