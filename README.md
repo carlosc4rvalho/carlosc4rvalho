@@ -33,7 +33,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosC4rvalho&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<h2> 💜 languages and tools: </h2>
+<h2> 💜💜 languages and tools: </h2>
 
 <div style="display: inline_block"><br>
   <img src="https://img.icons8.com/color/65/000000/html-5--v1.png"/>
