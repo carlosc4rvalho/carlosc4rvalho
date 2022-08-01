@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=5000&color=FF58C4&center=true&width=800&lines=Olá,+Meu+nome+é+Carlos;Aspirante+a+dev.Front+End;+Graduando+em+Sistemas+de+Informação+IFPR;A+procura+de+um+Estagio+Remoto)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&duration=5000&color=FF58C4&center=true&width=800&lines=Olá,+Meu+nome+é+Carlos;Aspirante+a+dev.Front+End;+Graduando+em+Sistemas+de+Informação+IFPR;A+procura+de+um+Estagio+Remoto)](https://git.io/typing-svg)
   
 <h3> 🥽 Bem vindo ao meu perfil ! </h3>
 
