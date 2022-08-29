@@ -7,13 +7,17 @@
 <br>
 <br>
 <br>
+  
 <div>
+  
 <h2> 🌍 About Me <h2>
 
-<p>Olá, me chamo Carlos, sou de Ivaiporã interior do Paraná e me considero um aspirante a desenvolvedor Front-End, almejo ampliar meus conhecimentos em uma boa oportunidade.</p>
+<p>Olá, me chamo Carlos, sou de Ivaiporã interior do Paraná e me considero um aspirante a desenvolvedor Front-End, no momento estou iniciando meus estudos em JavaScript e Bootstrap.</p>
 
-<p>Atualmente sou Graduando do 3° Semestre de Sistemas de Informação através do Instituto Federal do Paraná - IFPR, nesse semestre em específico introduzo a Principalmente a Banco de Dados, Java POO e Linux.</p>
+<p>Atualmente sou Graduando do 3° Semestre de Sistemas de Informação através do Instituto Federal do Paraná - IFPR, nesse semestre em específico introduzo a Principalmente a Banco de Dados, Java POO e Linux, e estou em busca de uma boa oportunidade de estagio remoto</p>
+  
 </div>
+  
 <br>
 <br>
 <br>
