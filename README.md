@@ -47,7 +47,7 @@
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
   <img src="https://img.icons8.com/fluency/48/000000/typescript.png"/>
-  <img src="https://img.icons8.com/officel/48/000000/react.png"/>
+ <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
   <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
 </div>
 
