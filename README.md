@@ -45,8 +45,8 @@
   <img src="https://img.icons8.com/fluency/65/000000/visual-studio-code-2019.png"/>
   <img src="https://img.icons8.com/color/65/000000/bootstrap.png"/>
   <img src="https://img.icons8.com/color/65/000000/javascript--v1.png"/>
-  <img src="https://img.icons8.com/color/65/000000/c-plus-plus-logo.png"/>
   <!--em fase de aprendizado
+  <img src="https://img.icons8.com/color/65/000000/c-plus-plus-logo.png"/>
   <img src="https://img.icons8.com/fluency/65/000000/typescript.png"/>
   <img src="https://img.icons8.com/color/65/000000/react-native.png"/>
   <img src="https://img.icons8.com/color/65/000000/python--v1.png"/>
