@@ -45,14 +45,16 @@
   <img src="https://img.icons8.com/fluency/65/000000/visual-studio-code-2019.png"/>
   <img src="https://img.icons8.com/color/65/000000/bootstrap.png"/>
   <img src="https://img.icons8.com/color/65/000000/javascript--v1.png"/>
-  <img src="https://img.icons8.com/color/65/null/sass.png"/>
-  <!-- 
   <img src="https://img.icons8.com/color/65/null/sass-avatar.png"/>
   <img src="https://img.icons8.com/color/65/000000/c-plus-plus-logo.png"/>
+  <!--
   <img src="https://img.icons8.com/fluency/65/000000/typescript.png"/>
   <img src="https://img.icons8.com/color/65/000000/react-native.png"/>
+  -->  
   <img src="https://img.icons8.com/color/65/000000/python--v1.png"/>
-  -->
+  <img src="https://img.icons8.com/color/65/null/java-coffee-cup-logo--v1.png"/>
+  <img src="https://img.icons8.com/color/65/null/postgreesql.png"/>
+  
 </div>
 
 <h2> 📩 Find Me </h2>
