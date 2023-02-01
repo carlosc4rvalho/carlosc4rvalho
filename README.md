@@ -60,4 +60,8 @@
   <a href="https://twitter.com/Carlos_c4rvalho" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
 </div>
 
-
+  <br><br><br>
+  
+  <!--
+  ![:name](https://count.getloli.com/get/@:CarlosC4rvalho?theme=rule34)
+  -->
