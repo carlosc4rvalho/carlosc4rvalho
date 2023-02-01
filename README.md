@@ -1,12 +1,10 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&duration=5000&color=FF58C4&center=true&width=800&lines=Olá,+Meu+nome+é+Carlos;Aspirante+a+dev.Front+End;+Graduando+em+Sistemas+de+Informação+IFPR;A+procura+de+um+Estagio+Remoto)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.herokuapp.com?size=35&duration=5000&color=FF58C4&center=true&width=800&lines=Olá,+Meu+nome+é+Carlos;Aspirante+a+dev.Front+End;+Graduando+em+Sistemas+de+Informação+IFPR;A+procura+de+um+Estagio+Remoto" alt="Typing SVG">
   
 <h2> 🥽 Bem vindo ao meu perfil ! </h2>
 
-<br>
-<br>
-<br>
+<br><br><br>
   
 <div>
   
@@ -18,9 +16,7 @@
   
 </div>
   
-<br>
-<br>
-<br>
+<br><br><br>
 
 <img height="300" src="https://user-images.githubusercontent.com/60597290/151966205-54a50cb6-2401-49bc-992c-dd926c8ecd09.svg"/>
   
@@ -31,6 +27,7 @@
 <br>
 
 <h2> ✨ Github Status 👇 </h2>
+
 <div align="center">  
   <a href="https://github.com/CarlosC4rvalho">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosC4rvalho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -47,10 +44,7 @@
   <img src="https://img.icons8.com/color/65/000000/javascript--v1.png"/>
   <img src="https://img.icons8.com/color/65/null/sass-avatar.png"/>
   <img src="https://img.icons8.com/color/65/000000/c-plus-plus-logo.png"/>
-  <img src="https://img.icons8.com/fluency/65/000000/typescript.png"/>
-  <!--
-  <img src="https://img.icons8.com/color/65/000000/react-native.png"/>
-  -->  
+  <img src="https://img.icons8.com/fluency/65/000000/typescript.png"/> 
   <img src="https://img.icons8.com/color/65/000000/python--v1.png"/>
   <img src="https://img.icons8.com/color/65/null/java-coffee-cup-logo--v1.png"/>
   <img src="https://img.icons8.com/color/65/null/postgreesql.png"/>
@@ -66,6 +60,4 @@
   <a href="https://twitter.com/Carlos_c4rvalho" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
 </div>
 
-<!--
-![Snake animation](https://github.com/CarlosC4rvalho/CarlosC4rvalho/blob/output/github-contribution-grid-snake.svg)
--->
+
