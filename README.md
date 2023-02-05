@@ -47,8 +47,6 @@
   <img src="https://img.icons8.com/fluency/65/000000/typescript.png"/> 
   <img src="https://img.icons8.com/color/65/000000/python--v1.png"/>
   <img src="https://img.icons8.com/color/65/null/java-coffee-cup-logo--v1.png"/>
-  <img src="https://img.icons8.com/color/65/null/postgreesql.png"/>
-  
 </div>
 
 <h2> 📩 Find Me </h2>
