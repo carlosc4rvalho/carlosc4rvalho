@@ -37,7 +37,7 @@
 <h2> 💜 Languages and tools 💜: </h2>
 
 <div style="display: inline_block"><br>
- <img src="tolls.png"/>
+ <img src="https://github.com/CarlosC4rvalho/CarlosC4rvalho/assets/110244419/affa737c-9ebf-4269-bc41-427fc590659c"
 </div>
 
 <h2> 📩 Find Me </h2>
