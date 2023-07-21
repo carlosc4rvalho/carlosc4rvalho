@@ -37,16 +37,7 @@
 <h2> 💜 Languages and tools 💜: </h2>
 
 <div style="display: inline_block"><br>
-  <img src="https://img.icons8.com/color/65/000000/html-5--v1.png"/>
-  <img src="https://img.icons8.com/color/65/000000/css3.png"/>
-  <img src="https://img.icons8.com/fluency/65/000000/visual-studio-code-2019.png"/>
-  <img src="https://img.icons8.com/color/65/000000/bootstrap.png"/>
-  <img src="https://img.icons8.com/color/65/000000/javascript--v1.png"/>
-  <img src="https://img.icons8.com/color/65/null/sass-avatar.png"/>
-  <img src="https://img.icons8.com/color/65/000000/c-plus-plus-logo.png"/>
-  <img src="https://img.icons8.com/fluency/65/000000/typescript.png"/> 
-  <img src="https://img.icons8.com/color/65/000000/python--v1.png"/>
-  <img src="https://img.icons8.com/color/65/null/java-coffee-cup-logo--v1.png"/>
+ <img src="tolls.png"/>
 </div>
 
 <h2> 📩 Find Me </h2>
@@ -58,7 +49,4 @@
   <a href="https://twitter.com/Carlos_c4rvalho" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
 </div>
 
-  <!--
-  <img align="right" alt="gif" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/4d/64/08/4d6408285378256a5080815dad34d608.gif">
-  ![:name](https://count.getloli.com/get/@:CarlosC4rvalho?theme=rule34)
-  -->
+<img align="right" alt="gif" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/4d/64/08/4d6408285378256a5080815dad34d608.gif">
