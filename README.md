@@ -10,9 +10,9 @@
   
 <h2> 🌍 About Me <h2>
 
-<p>Olá, me chamo Carlos, sou de Ivaiporã interior do Paraná e me considero um aspirante a desenvolvedor Front-End, no momento estou dando inicio aos meus estudos em Type Script e React js.</p>
+<p>Olá, meu nome é Carlos e sou natural de Ivaiporã, uma cidade no interior do Paraná. Considero-me um aspirante a desenvolvedor Front-End e atualmente estou iniciando meus estudos em TypeScript, React.js, Next.js e Node.js.</p>
 
-<p>Atualmente sou Graduando do 5° Semestre de Sistemas de Informação através do Instituto Federal do Paraná - IFPR, nesse semestre em específico introduzo a Principalmente a Programação web, web designer. Além disso estou em busca de uma boa oportunidade de estagio remoto</p>
+<p>Atualmente, estou cursando o 5º semestre de Sistemas de Informação no Instituto Federal do Paraná - IFPR. Neste semestre, estou sendo introduzido principalmente à programação web e web design. Além disso, estou em busca de uma oportunidade de estágio para aplicar e aprimorar meus conhecimentos que venho adquirindo</p>
   
 </div>
   
