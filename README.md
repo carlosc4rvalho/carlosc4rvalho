@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?size=35&duration=5000&color=FF58C4&center=true&width=800&lines=Olá,+Meu+nome+é+Carlos;+Dev.Front+End+em+formação;+Graduando+em+Sistemas+de+Informação+IFPR;A+procura+de+um+Estagio+Remoto" alt="Typing SVG">
+<img src="https://readme-typing-svg.herokuapp.com?size=35&duration=5000&color=FF58C4&center=true&width=800&lines=Olá,+Meu+nome+é+Carlos;+Dev.Front+End+em+formação;+Graduando+em+Sistemas+de+Informação+IFPR" alt="Typing SVG">
   
 <h2> 🥽 Bem vindo ao meu perfil ! </h2>
 
